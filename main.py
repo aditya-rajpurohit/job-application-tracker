@@ -14,17 +14,17 @@ def main() -> None:
         {
             "label": "professional",
             "display_name": "Professional Account",
-            "email": "heyadityarajpurohit@gmail.com",
+            "email": "professional@gmail.com",
         },
         {
             "label": "university",
             "display_name": "University Account",
-            "email": "aditya.rajpurohit@sjsu.edu",
+            "email": "university@sjsu.edu",
         },
         {
             "label": "personal",
             "display_name": "Personal Account",
-            "email": "adi.at.internet@gmail.com",
+            "email": "personal@gmail.com",
         },
     ]
 
@@ -38,7 +38,7 @@ def main() -> None:
 
 
     print("=" * 60)
-    print("Job Application Email Counter (Gmail API)")
+    print("Job Application Email Counter)")
     print("=" * 60)
     print("\nUsing Gmail search query:")
     print(f"  {query}")
